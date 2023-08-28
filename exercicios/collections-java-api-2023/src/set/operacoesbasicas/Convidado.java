@@ -1,4 +1,4 @@
-package list.set;
+package set.operacoesbasicas;
 
 import java.util.Objects;
 
